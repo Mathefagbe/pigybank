@@ -17,7 +17,9 @@ Also ensure you have `pip` installed. This is a package installer for python.
 create a subdirectory for the project, and move into the directory either on pycharm or vscode.
 
 Create a virtual environment by running :
+`python -m venv venv`
 
+Activate your virtual environment by running the command:
 For windows: `venv/scripts/activate`
 For Mac : `source venv/bin/activate`
 
